@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS合集\BFS 解决FloofFill算法\岛屿数量\main.cpp(9,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS合集\BFS 解决FloofFill算法\岛屿数量\main.cpp(9,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS合集\BFS 解决FloofFill算法\岛屿数量\main.cpp(29,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS合集\BFS 解决FloofFill算法\岛屿数量\main.cpp(29,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  岛屿数量.vcxproj -> C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS合集\BFS 解决FloofFill算法\岛屿数量\x64\Debug\岛屿数量.exe
