@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2961 双模幂运算", "2961 双模幂运算.vcxproj", "{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Debug|x64.ActiveCfg = Debug|x64
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Debug|x64.Build.0 = Debug|x64
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Debug|x86.Build.0 = Debug|Win32
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Release|x64.ActiveCfg = Release|x64
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Release|x64.Build.0 = Release|x64
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Release|x86.ActiveCfg = Release|Win32
+		{DD1A7F90-17EC-4A5F-BC76-A2539DACFCCA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1300F2AA-E2BA-48CB-8ADC-B79E01E2D6A2}
+	EndGlobalSection
+EndGlobal

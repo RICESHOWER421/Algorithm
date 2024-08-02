@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2844 生成特殊数字的最少操作\main.cpp(15,2): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2844 生成特殊数字的最少操作\main.cpp(30,25): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  2844 生成特殊数字的最少操作.vcxproj -> C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2844 生成特殊数字的最少操作\x64\Debug\2844 生成特殊数字的最少操作.exe
