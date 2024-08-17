@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3137 K 周期字符串需要的最少操作次数", "3137 K 周期字符串需要的最少操作次数.vcxproj", "{104E8E0A-12AE-453A-A572-29230BB06E1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Debug|x64.ActiveCfg = Debug|x64
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Debug|x64.Build.0 = Debug|x64
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Debug|x86.ActiveCfg = Debug|Win32
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Debug|x86.Build.0 = Debug|Win32
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Release|x64.ActiveCfg = Release|x64
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Release|x64.Build.0 = Release|x64
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Release|x86.ActiveCfg = Release|Win32
+		{104E8E0A-12AE-453A-A572-29230BB06E1A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E970B1B-0E31-4F09-91A7-9CDCCC650A91}
+	EndGlobalSection
+EndGlobal
