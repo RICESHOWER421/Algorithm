@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "977 有序数组的平方", "977 有序数组的平方.vcxproj", "{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Debug|x64.ActiveCfg = Debug|x64
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Debug|x64.Build.0 = Debug|x64
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Debug|x86.Build.0 = Debug|Win32
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Release|x64.ActiveCfg = Release|x64
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Release|x64.Build.0 = Release|x64
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Release|x86.ActiveCfg = Release|Win32
+		{B89CC7FA-C827-4EA5-BC2A-5C17D0E3B2B0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA0C495D-D4F0-4D65-889C-BB85EC1F6827}
+	EndGlobalSection
+EndGlobal
