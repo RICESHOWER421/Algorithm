@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2260 必须拿起的最小连续卡牌数", "2260 必须拿起的最小连续卡牌数.vcxproj", "{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Debug|x64.ActiveCfg = Debug|x64
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Debug|x64.Build.0 = Debug|x64
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Debug|x86.Build.0 = Debug|Win32
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Release|x64.ActiveCfg = Release|x64
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Release|x64.Build.0 = Release|x64
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Release|x86.ActiveCfg = Release|Win32
+		{0B58D4EE-A41F-4C07-A140-4CD4BA6D8549}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E573A47-D330-4856-B806-675829FDC31C}
+	EndGlobalSection
+EndGlobal
