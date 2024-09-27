@@ -1,0 +1,1 @@
+C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\算法合集\滑动窗口\每种字符至少取k个\x64\Debug\每种字符至少取k个.exe
