@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "在排序数组中查找元素的第一个和最后一个位置", "在排序数组中查找元素的第一个和最后一个位置.vcxproj", "{37461428-EC25-4388-A0FC-34AFC33EA2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Debug|x64.ActiveCfg = Debug|x64
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Debug|x64.Build.0 = Debug|x64
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Debug|x86.Build.0 = Debug|Win32
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Release|x64.ActiveCfg = Release|x64
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Release|x64.Build.0 = Release|x64
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Release|x86.ActiveCfg = Release|Win32
+		{37461428-EC25-4388-A0FC-34AFC33EA2B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {033CA1A1-70DE-482A-9648-7570A27C9AFB}
+	EndGlobalSection
+EndGlobal

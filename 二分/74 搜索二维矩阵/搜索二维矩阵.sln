@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "搜索二维矩阵", "搜索二维矩阵.vcxproj", "{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Debug|x64.ActiveCfg = Debug|x64
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Debug|x64.Build.0 = Debug|x64
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Debug|x86.Build.0 = Debug|Win32
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Release|x64.ActiveCfg = Release|x64
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Release|x64.Build.0 = Release|x64
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Release|x86.ActiveCfg = Release|Win32
+		{5D3F9F2F-8D49-4C4C-8680-958A1D8CAEBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0324EB9-C1C2-4F20-8A2D-8C9DD56960AF}
+	EndGlobalSection
+EndGlobal
