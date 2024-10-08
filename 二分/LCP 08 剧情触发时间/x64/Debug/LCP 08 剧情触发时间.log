@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\LCP 08 剧情触发时间\main.cpp(9,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\LCP 08 剧情触发时间\main.cpp(23,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  LCP 08 剧情触发时间.vcxproj -> C:\Users\34289\Desktop\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\LCP 08 剧情触发时间\x64\Debug\LCP 08 剧情触发时间.exe
