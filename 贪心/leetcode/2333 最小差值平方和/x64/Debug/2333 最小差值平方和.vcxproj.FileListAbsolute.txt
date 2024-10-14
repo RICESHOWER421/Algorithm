@@ -1,0 +1,1 @@
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2333 最小差值平方和\x64\Debug\2333 最小差值平方和.exe
