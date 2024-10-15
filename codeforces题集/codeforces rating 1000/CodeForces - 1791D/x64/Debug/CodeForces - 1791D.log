@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\算法合集\codeforces题集\codeforces rating 1000\CodeForces - 1791D\main.cpp(21,27): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  CodeForces - 1791D.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\算法合集\codeforces题集\codeforces rating 1000\CodeForces - 1791D\x64\Debug\CodeForces - 1791D.exe
