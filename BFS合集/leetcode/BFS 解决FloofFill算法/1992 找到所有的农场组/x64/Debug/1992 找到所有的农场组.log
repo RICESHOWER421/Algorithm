@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1992 找到所有的农场组\main.cpp(12,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1992 找到所有的农场组\main.cpp(12,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1992 找到所有的农场组\main.cpp(35,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  1992 找到所有的农场组.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1992 找到所有的农场组\x64\Debug\1992 找到所有的农场组.exe
