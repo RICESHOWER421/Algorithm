@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\540 有序数组中的单一元素\main.cpp(21,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  540 有序数组中的单一元素.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\540 有序数组中的单一元素\x64\Debug\540 有序数组中的单一元素.exe
