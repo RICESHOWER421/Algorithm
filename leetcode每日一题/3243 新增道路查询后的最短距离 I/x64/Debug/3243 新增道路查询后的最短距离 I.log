@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3243 新增道路查询后的最短距离 I\main.cpp(17,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3243 新增道路查询后的最短距离 I\main.cpp(26,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3243 新增道路查询后的最短距离 I.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3243 新增道路查询后的最短距离 I\x64\Debug\3243 新增道路查询后的最短距离 I.exe
