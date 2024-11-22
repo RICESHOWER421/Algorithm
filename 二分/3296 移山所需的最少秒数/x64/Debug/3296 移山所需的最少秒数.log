@@ -1,3 +1,15 @@
 ﻿  main.cpp
-D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3296 移山所需的最少秒数\main.cpp(21,24): warning C4244: “初始化”: 从“double”转换到“Solution::ll”，可能丢失数据
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(193,38): warning C4244: “初始化”: 从“const _Ty2”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty2=__int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(193): message : 查看对正在编译的函数 模板 实例化“std::pair<Solution::ll,int>::pair<__int64,__int64,0>(const std::pair<__int64,__int64> &) noexcept”的引用
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(193,38): message : 查看对正在编译的函数 模板 实例化“std::pair<Solution::ll,int>::pair<__int64,__int64,0>(const std::pair<__int64,__int64> &) noexcept”的引用
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3296 移山所需的最少秒数\main.cpp(51,1): message : 查看对正在编译的函数 模板 实例化“std::pair<Solution::ll,std::pair<Solution::ll,int>>::pair<__int64,std::pair<__int64,__int64>,0>(const std::pair<__int64,std::pair<__int64,__int64>> &) noexcept”的引用
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3296 移山所需的最少秒数\main.cpp(51,40): message : 查看对正在编译的函数 模板 实例化“std::pair<Solution::ll,std::pair<Solution::ll,int>>::pair<__int64,std::pair<__int64,__int64>,0>(const std::pair<__int64,std::pair<__int64,__int64>> &) noexcept”的引用
   3296 移山所需的最少秒数.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3296 移山所需的最少秒数\x64\Debug\3296 移山所需的最少秒数.exe
