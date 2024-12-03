@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1802 有界数组中指定下标处的最大值\main.cpp(12,51): warning C4244: “=”: 从“Solution::ll”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1802 有界数组中指定下标处的最大值\main.cpp(13,25): warning C4244: “=”: 从“Solution::ll”转换到“int”，可能丢失数据
+  1802 有界数组中指定下标处的最大值.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1802 有界数组中指定下标处的最大值\x64\Debug\1802 有界数组中指定下标处的最大值.exe
