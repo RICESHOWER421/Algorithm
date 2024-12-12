@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2931 购买物品的最大开销", "2931 购买物品的最大开销.vcxproj", "{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Debug|x64.ActiveCfg = Debug|x64
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Debug|x64.Build.0 = Debug|x64
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Debug|x86.Build.0 = Debug|Win32
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Release|x64.ActiveCfg = Release|x64
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Release|x64.Build.0 = Release|x64
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Release|x86.ActiveCfg = Release|Win32
+		{72B6A812-E56B-47AA-91F1-6D73DCD89AB0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A81171FC-330E-49B1-8AB7-F7852A11D0F7}
+	EndGlobalSection
+EndGlobal
