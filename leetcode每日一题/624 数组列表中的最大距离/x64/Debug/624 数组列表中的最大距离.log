@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\624 数组列表中的最大距离\main.cpp(7,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\624 数组列表中的最大距离\main.cpp(7,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\624 数组列表中的最大距离\main.cpp(7,55): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\624 数组列表中的最大距离\main.cpp(7,71): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  624 数组列表中的最大距离.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\624 数组列表中的最大距离\x64\Debug\624 数组列表中的最大距离.exe
