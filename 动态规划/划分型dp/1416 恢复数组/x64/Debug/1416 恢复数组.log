@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1416 恢复数组\main.cpp(7,24): warning C4244: “初始化”: 从“double”转换到“const Solution::ll”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1416 恢复数组\main.cpp(9,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1416 恢复数组\main.cpp(16,41): warning C4244: “+=”: 从“double”转换到“Solution::ll”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1416 恢复数组\main.cpp(25,20): warning C4244: “return”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Solution::ll
+          ]
+  1416 恢复数组.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1416 恢复数组\x64\Debug\1416 恢复数组.exe
