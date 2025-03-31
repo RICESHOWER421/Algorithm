@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\378 有序矩阵中第 K 小的元素\main.cpp(7,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\378 有序矩阵中第 K 小的元素\main.cpp(8,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\378 有序矩阵中第 K 小的元素\main.cpp(8,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  378 有序矩阵中第 K 小的元素.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\378 有序矩阵中第 K 小的元素\x64\Debug\378 有序矩阵中第 K 小的元素.exe
