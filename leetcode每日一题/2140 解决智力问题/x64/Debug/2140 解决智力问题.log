@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2140 解决智力问题\main.cpp(32,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2140 解决智力问题.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2140 解决智力问题\x64\Debug\2140 解决智力问题.exe
