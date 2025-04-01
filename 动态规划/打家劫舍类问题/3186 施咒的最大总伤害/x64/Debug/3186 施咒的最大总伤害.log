@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3186 施咒的最大总伤害\main.cpp(16,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3186 施咒的最大总伤害\main.cpp(18,42): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Solution::ll
+          ]
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3186 施咒的最大总伤害\main.cpp(24,69): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Solution::ll
+          ]
+  3186 施咒的最大总伤害.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3186 施咒的最大总伤害\x64\Debug\3186 施咒的最大总伤害.exe

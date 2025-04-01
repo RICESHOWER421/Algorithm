@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2320 统计放置房子的方式数\main.cpp(7,25): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2320 统计放置房子的方式数\main.cpp(16,16): warning C4244: “return”: 从“Solution::ll”转换到“int”，可能丢失数据
+  2320 统计放置房子的方式数.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2320 统计放置房子的方式数\x64\Debug\2320 统计放置房子的方式数.exe
