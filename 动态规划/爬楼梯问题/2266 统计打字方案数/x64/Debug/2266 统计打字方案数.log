@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2266 统计打字方案数\main.cpp(7,25): warning C4244: “初始化”: 从“double”转换到“const int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2266 统计打字方案数\main.cpp(9,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2266 统计打字方案数\main.cpp(31,23): warning C4244: “return”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Solution::ll
+          ]
+  2266 统计打字方案数.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2266 统计打字方案数\x64\Debug\2266 统计打字方案数.exe
