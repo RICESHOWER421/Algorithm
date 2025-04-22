@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3180 执行操作可获得的最大总奖励 I\main.cpp(7,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3180 执行操作可获得的最大总奖励 I\main.cpp(25): warning C4715: “Solution::maxTotalReward”: 不是所有的控件路径都返回值
+  3180 执行操作可获得的最大总奖励 I.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3180 执行操作可获得的最大总奖励 I\x64\Debug\3180 执行操作可获得的最大总奖励 I.exe
