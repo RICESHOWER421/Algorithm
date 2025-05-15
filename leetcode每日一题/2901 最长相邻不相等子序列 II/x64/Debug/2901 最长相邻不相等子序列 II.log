@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\2901 最长相邻不相等子序列 II\main.cpp(7,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\2901 最长相邻不相等子序列 II\main.cpp(23,1): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\2901 最长相邻不相等子序列 II\main.cpp(26,1): warning C4267: “=”: 从“size_t”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+  2901 最长相邻不相等子序列 II.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\2901 最长相邻不相等子序列 II\x64\Debug\2901 最长相邻不相等子序列 II.exe
