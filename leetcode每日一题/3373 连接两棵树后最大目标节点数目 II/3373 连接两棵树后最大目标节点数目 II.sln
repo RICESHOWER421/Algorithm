@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3373 连接两棵树后最大目标节点数目 II", "3373 连接两棵树后最大目标节点数目 II.vcxproj", "{2318A63E-A1E2-4A05-B643-06B55872D0C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Debug|x64.ActiveCfg = Debug|x64
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Debug|x64.Build.0 = Debug|x64
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Debug|x86.ActiveCfg = Debug|Win32
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Debug|x86.Build.0 = Debug|Win32
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Release|x64.ActiveCfg = Release|x64
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Release|x64.Build.0 = Release|x64
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Release|x86.ActiveCfg = Release|Win32
+		{2318A63E-A1E2-4A05-B643-06B55872D0C4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271A60FD-538B-4899-AF58-22D11D971458}
+	EndGlobalSection
+EndGlobal
