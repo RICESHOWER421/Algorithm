@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\135 分发糖果\main.cpp(7,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  135 分发糖果.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\135 分发糖果\x64\Debug\135 分发糖果.exe
