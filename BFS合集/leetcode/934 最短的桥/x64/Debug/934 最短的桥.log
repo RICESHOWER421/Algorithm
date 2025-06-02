@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\934 最短的桥\main.cpp(8,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\934 最短的桥\main.cpp(63,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  934 最短的桥.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\934 最短的桥\x64\Debug\934 最短的桥.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS 解决FloofFill算法\被围绕的区域\main.cpp(34,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS 解决FloofFill算法\被围绕的区域\main.cpp(34,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  被围绕的区域.vcxproj -> C:\Users\34289\Desktop\学习分区\编程学习资料\C++语言学习资料\学习项目(VS2022)\算法合集\BFS 解决FloofFill算法\被围绕的区域\x64\Debug\被围绕的区域.exe
