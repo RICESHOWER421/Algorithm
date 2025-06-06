@@ -1,0 +1,2 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3419 图的最大边权的最小值\main.cpp(21,45): error C7673: 显式对象成员函数至少需要“/std:c++latest”
