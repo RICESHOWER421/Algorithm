@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\main.cpp(9,24): warning C4244: “初始化”: 从“double”转换到“const Solution::ll”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\main.cpp(15,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\main.cpp(25,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\main.cpp(29,29): warning C4244: “参数”: 从“Solution::ll”转换到“const _Kty”，可能丢失数据
+          with
+          [
+              _Kty=int
+          ]
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\main.cpp(33,26): warning C4244: “return”: 从“Solution::ll”转换到“int”，可能丢失数据
+  2975 移除栅栏得到的正方形田地的最大面积.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2975 移除栅栏得到的正方形田地的最大面积\x64\Debug\2975 移除栅栏得到的正方形田地的最大面积.exe
