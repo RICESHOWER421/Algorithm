@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1461 检查一个字符串是否包含所有长度为 K 的二进制子串\main.cpp(37,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1461 检查一个字符串是否包含所有长度为 K 的二进制子串\main.cpp(44,43): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  1461 检查一个字符串是否包含所有长度为 K 的二进制子串.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1461 检查一个字符串是否包含所有长度为 K 的二进制子串\x64\Debug\1461 检查一个字符串是否包含所有长度为 K 的二进制子串.exe
