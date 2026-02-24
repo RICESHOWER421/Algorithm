@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1022 从根到叶的二进制数之和\main.cpp(31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1022 从根到叶的二进制数之和\main.cpp(32,1): message : 查看对正在编译的函数 模板 实例化“void Solution::sumRootToLeaf::<lambda_1>::operator ()<Solution::sumRootToLeaf::<lambda_1>&>(_T1,TreeNode *) const”的引用
+          with
+          [
+              _T1=Solution::sumRootToLeaf::<lambda_1> &
+          ]
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1022 从根到叶的二进制数之和\main.cpp(24,45): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  1022 从根到叶的二进制数之和.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\1022 从根到叶的二进制数之和\x64\Debug\1022 从根到叶的二进制数之和.exe
