@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3643 垂直翻转子矩阵", "3643 垂直翻转子矩阵.vcxproj", "{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Debug|x64.ActiveCfg = Debug|x64
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Debug|x64.Build.0 = Debug|x64
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Debug|x86.Build.0 = Debug|Win32
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Release|x64.ActiveCfg = Release|x64
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Release|x64.Build.0 = Release|x64
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Release|x86.ActiveCfg = Release|Win32
+		{3D53BA97-7D0D-40C6-8AAE-B404C929F75F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F196981F-1E08-4182-B989-8677E3420533}
+	EndGlobalSection
+EndGlobal
