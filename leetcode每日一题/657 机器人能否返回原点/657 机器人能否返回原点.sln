@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "657 机器人能否返回原点", "657 机器人能否返回原点.vcxproj", "{DD200993-B69E-4DE8-8B11-36BF2D517C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Debug|x64.ActiveCfg = Debug|x64
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Debug|x64.Build.0 = Debug|x64
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Debug|x86.Build.0 = Debug|Win32
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Release|x64.ActiveCfg = Release|x64
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Release|x64.Build.0 = Release|x64
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Release|x86.ActiveCfg = Release|Win32
+		{DD200993-B69E-4DE8-8B11-36BF2D517C48}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D132297-A449-4ED3-9FD7-3413A8CE2F12}
+	EndGlobalSection
+EndGlobal
