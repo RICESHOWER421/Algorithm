@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3655 区间乘法查询后的异或 II", "3655 区间乘法查询后的异或 II.vcxproj", "{B570AFEB-2512-4D78-8110-24CE77C8D50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Debug|x64.ActiveCfg = Debug|x64
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Debug|x64.Build.0 = Debug|x64
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Debug|x86.Build.0 = Debug|Win32
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Release|x64.ActiveCfg = Release|x64
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Release|x64.Build.0 = Release|x64
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Release|x86.ActiveCfg = Release|Win32
+		{B570AFEB-2512-4D78-8110-24CE77C8D50D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39FBF926-DDC6-46B2-85BB-01052C39CA3A}
+	EndGlobalSection
+EndGlobal
