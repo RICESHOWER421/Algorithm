@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3488 距离最小相等元素查询\main.cpp(8,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3488 距离最小相等元素查询\main.cpp(14,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  3488 距离最小相等元素查询.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\3488 距离最小相等元素查询\x64\Debug\3488 距离最小相等元素查询.exe
