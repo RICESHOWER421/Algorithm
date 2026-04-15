@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2463 最小移动总距离\main.cpp(39,19): warning C4244: “初始化”: 从“double”转换到“const Solution::ll”，可能丢失数据
+D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2463 最小移动总距离\main.cpp(41,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  2463 最小移动总距离.vcxproj -> D:\learning\code learning material\C++ learning\学习项目(VS2022)\leetcode\2463 最小移动总距离\x64\Debug\2463 最小移动总距离.exe
