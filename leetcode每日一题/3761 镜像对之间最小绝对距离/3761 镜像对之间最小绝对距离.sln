@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3761 镜像对之间最小绝对距离", "3761 镜像对之间最小绝对距离.vcxproj", "{1F479938-9EBD-4267-9FEB-B97A656E733B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Debug|x64.ActiveCfg = Debug|x64
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Debug|x64.Build.0 = Debug|x64
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Debug|x86.ActiveCfg = Debug|Win32
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Debug|x86.Build.0 = Debug|Win32
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Release|x64.ActiveCfg = Release|x64
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Release|x64.Build.0 = Release|x64
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Release|x86.ActiveCfg = Release|Win32
+		{1F479938-9EBD-4267-9FEB-B97A656E733B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54F6FF54-F0F1-4A86-B5EE-D82394D2FC6F}
+	EndGlobalSection
+EndGlobal
